@@ -112,8 +112,3 @@ var l_messagesDelay = 5000;
 in milliseconds*/
 var l_messagesFade = 1000;
 
-/*
---------------------------------------
---------LEAKED BY ANONYMOUS LEAKR --------------
-----------------------------------------
-*/
