@@ -1,6 +1,4 @@
-/*
-	
-*/
+
 
 /*URL for the server logo
 Leave it blank to use text instead*/
