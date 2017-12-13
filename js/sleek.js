@@ -1,8 +1,3 @@
-/*
---------------------------------------
---------LEAKED BY ANONYMOUS LEAKR --------------
-----------------------------------------
-*/
 
 //Array randomizer (Fisher-Yates algorithm)
 function shuffle(array) {
