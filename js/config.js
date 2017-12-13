@@ -70,7 +70,7 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
 var l_musicDisplay = true;
@@ -98,7 +98,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Please be patience while we are downloading content!"
 ];
 
 /*Random message order?*/
