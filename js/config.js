@@ -96,7 +96,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
-"Please be patience while we are downloading content!"
+"Please be patience while we are loading content!"
 ];
 
 /*Random message order?*/
