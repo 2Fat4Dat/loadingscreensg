@@ -2,7 +2,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "https://imgur.com/a/oLfTnM9";
+var l_serverImage = "https://imgur.com/a/oLfTnM9.jpg";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
